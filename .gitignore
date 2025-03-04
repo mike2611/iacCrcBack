@@ -1,0 +1,14 @@
+# Virtual environment files
+bin/
+include/
+lib/
+lib64/
+pip-selfcheck.json
+pyvenvcfg
+testcounter
+
+# General Python ignores
+__pycache__/
+*.py[cod]
+env/
+venv/
